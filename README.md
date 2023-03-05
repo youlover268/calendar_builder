@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+added badges (#45)
