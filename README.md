@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
