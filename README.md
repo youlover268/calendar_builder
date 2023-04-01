@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+OBB: Fix when training on zip data (#8680)
