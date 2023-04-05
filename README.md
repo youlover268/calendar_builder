@@ -1,1 +1,1 @@
-ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
