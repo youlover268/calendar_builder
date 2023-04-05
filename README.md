@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
