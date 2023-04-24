@@ -1,1 +1,1 @@
-ultralytics 8.0.230 TensorRT export hang fix (#7180)
+Replace onnx2tf usage from CLI to Python (#8429)
