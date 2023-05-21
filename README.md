@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Update CI.md with CI links (#8786)
