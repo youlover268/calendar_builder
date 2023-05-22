@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Update Discord and Contributing Guide URLs (#9270)
