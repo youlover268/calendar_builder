@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
