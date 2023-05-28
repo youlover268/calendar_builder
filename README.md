@@ -1,1 +1,1 @@
-Fix names bug when exporting YOLOv8-World to ONNX (#8941)
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
