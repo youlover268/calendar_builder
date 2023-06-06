@@ -1,1 +1,1 @@
-add yolov10
+YAML reformat (#7669)
