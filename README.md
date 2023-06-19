@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+ultralytics 8.1.14 new YOLOv8-World models (#8054)
