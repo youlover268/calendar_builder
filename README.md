@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
