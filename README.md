@@ -1,1 +1,1 @@
-Add docs links to all dataset YAMLs (#7360)
+Add CoreML Docs Integrations Page (#8063)
