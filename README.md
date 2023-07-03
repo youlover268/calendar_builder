@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Docs partial mdformat improvements (#7378)
