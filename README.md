@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+Update the heatmap module code + docs (#7045)
