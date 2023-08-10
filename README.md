@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+Fix heatmaps width-height order bug (#7184)
