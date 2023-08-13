@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Fix docs H1 tags (#7182)
