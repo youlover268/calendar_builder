@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
