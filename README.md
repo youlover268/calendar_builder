@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Add Weights & Biases Docs integrations page (#7199)
