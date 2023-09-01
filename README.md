@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+OBB: Fix when training on zip data (#8680)
