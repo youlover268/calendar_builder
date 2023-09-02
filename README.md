@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Fixed RTDETR GFLOPs bug (#7309)
