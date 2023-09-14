@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
