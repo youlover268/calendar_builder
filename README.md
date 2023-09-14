@@ -1,1 +1,1 @@
-Try Apple M1 runners for Tests and Benchmarks CI (#8162)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
