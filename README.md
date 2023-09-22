@@ -1,1 +1,1 @@
-ultralytics 8.0.230 TensorRT export hang fix (#7180)
+Fix cmake requirements for ARM64 (#8589)
