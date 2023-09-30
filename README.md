@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
