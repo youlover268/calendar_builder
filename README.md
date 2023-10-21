@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+Add YouTube iframe loading=lazy (#8001)
