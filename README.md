@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Add Amazon Sagemaker Docs integrations page (#7293)
