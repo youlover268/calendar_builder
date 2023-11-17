@@ -1,1 +1,1 @@
-Update pyproject.toml [tool.pytest.ini_options] (#9259)
+Expand Model method type hinting (#8279)
