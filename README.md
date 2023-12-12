@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Fix IS_PYTHON_3_12 bug (#9258)
