@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Mkdocs updates (#8008)
