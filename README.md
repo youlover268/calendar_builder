@@ -1,1 +1,1 @@
-Move Google Drive to slow tests (#8163)
+ultralytics 8.1.31 NCNN and CLIP updates (#9235)
