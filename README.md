@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
