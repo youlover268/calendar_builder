@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
