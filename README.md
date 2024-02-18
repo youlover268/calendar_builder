@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
