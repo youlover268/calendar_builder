@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+ultralytics 8.0.228 add training time argument (#7054)
