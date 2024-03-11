@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
