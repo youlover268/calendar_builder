@@ -1,1 +1,1 @@
-Add TF GraphDef Docs Integrations Page (#9203)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
