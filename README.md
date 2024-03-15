@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Update the heatmap module code + docs (#7045)
