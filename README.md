@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
