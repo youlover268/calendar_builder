@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
