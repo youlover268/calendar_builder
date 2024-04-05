@@ -1,1 +1,1 @@
-Add https://youtu.be/R42s2zFtNIY to hub/datasets.md and CoreML image fix (#8085)
+ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
