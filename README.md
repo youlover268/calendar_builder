@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+New HUB Cloud Training docs page (#8174)
