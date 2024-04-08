@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Update OpenVINO INT8 export (#7515)
