@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Add plot_images conf_thresh parameter (#8446)
