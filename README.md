@@ -1,1 +1,1 @@
-Add Ultralytics HUB Cloud Training banner to Docs (#8656)
+Update CITATION.cff with cffinit corrections (#8658)
