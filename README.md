@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Optimize TFJS export on ARM64 (#8946)
