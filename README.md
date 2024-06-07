@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation, swap axis (#8249)
+Elaborate Train and Predict mode docs arguments (#8137)
