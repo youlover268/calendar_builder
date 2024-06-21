@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Optimize function calls to method calls (#8507)
