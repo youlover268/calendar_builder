@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+fix yolo classify model loading error (#9196)
