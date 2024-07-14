@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Update docs building code (#7601)
