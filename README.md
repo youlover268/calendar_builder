@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Fix Yolo 8.0.206 scale bug (#7821)
