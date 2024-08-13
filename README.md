@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+ultralytics 8.0.229 add model.embed() method (#7098)
