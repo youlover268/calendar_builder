@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+Fixed RTDETR GFLOPs bug (#7309)
