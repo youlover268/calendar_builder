@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+ultralytics 8.1.22 HUB model pathlib fix (#8621)
