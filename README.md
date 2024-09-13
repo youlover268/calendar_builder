@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Clarify triton server boolean value (#8532)
