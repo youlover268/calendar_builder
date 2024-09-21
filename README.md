@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Retry once for Docker CI failures (#8164)
