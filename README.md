@@ -1,1 +1,1 @@
-ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
